@@ -121,8 +121,5 @@
 
 <h2 align="center">😂 Keep Coding!</h2>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/98ad9834-6be5-4314-8a71-ae069916cc15" width="420" alt="Funny Cartoon GIF"/>
-</p>
 
 
