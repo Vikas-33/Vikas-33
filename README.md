@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm Vikas Kumar Kumawat</h1>
 <h3 align="center">Python Developer | Django Developer</h3>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vikas-33&label=Profile%20views&color=blue&style=flat"/>
+</p>
+
 ---
 
 <h3 align="left">💼 About Me</h3>
@@ -114,18 +118,11 @@
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=vikas-33&label=Profile%20views&color=blue&style=flat"/>
-</p>
 
----
-
-
+<h2 align="center">😂 Keep Coding!</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Shinchan+is+watching+your+commits!;Keep+coding+like+a+hero!&center=true&size=25">
+  <img src="https://github.com/user-attachments/assets/98ad9834-6be5-4314-8a71-ae069916cc15" width="420" alt="Funny Cartoon GIF"/>
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/saadeghi/files/main/shinchan/shinchan-dance.gif" width="450">
-</p>
+
